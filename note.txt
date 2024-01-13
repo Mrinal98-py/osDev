@@ -6,3 +6,5 @@ cygwin ?
 mac os -> homebrew!
 
 environment |-> virtual box, 
+
+new text change 
